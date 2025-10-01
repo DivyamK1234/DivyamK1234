@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://divyamk1234.io)
 <h1 align="center">Hi 👋, I'm Divyam Khorwal</h1>
-<h3 align="center">A Passionate Developer</h3>
+<h3 align="center">Developing Stuff</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyamk1234&label=Profile%20views&color=0e75b6&style=flat" alt="divyamk1234" /> </p>
