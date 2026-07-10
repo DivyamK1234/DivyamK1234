@@ -1,31 +1,85 @@
-[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://divyamk1234.io)
-<h1 align="center">Hi 👋, I'm Divyam Khorwal</h1>
-<h3 align="center">Developing Stuff</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyamk1234&label=Profile%20views&color=0e75b6&style=flat" alt="divyamk1234" /> </p>
+# Hi, I'm Divyam Khorwal 👋
+### DevOps Engineer | Automating Infra, Shipping Reliably
 
-<p align="left"> <a href="https://twitter.com/divyam_khorwal" target="blank"><img src="https://img.shields.io/twitter/follow/divyam_khorwal?logo=twitter&style=for-the-badge" alt="divyam_khorwal" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=500&lines=Kubernetes+%2B+ArgoCD+%3D+%E2%9D%A4%EF%B8%8F;Automating+the+boring+stuff+with+Terraform;Building+CI%2FCD+pipelines+that+don't+break;GCP+%7C+Docker+%7C+n8n+%7C+Retool)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **HTML,CSS,Javascript,React**
+</div>
 
-- 👯 I’m looking to collaborate on **Frontend Dev Projects**
+---
 
-- 💬 Ask me about **Web Development**
+### 🚀 About Me
 
-- 📫 How to reach me **divyamkhorwal18@gmail.com**
+- 🔧 I'm a **DevOps Engineer** focused on cloud infrastructure, containerization, and automation
+- ☁️ Currently working with **GCP**, building and maintaining scalable, reliable systems
+- 🐳 Deep into **Docker & Kubernetes**, with **ArgoCD** for GitOps-driven deployments
+- 🏗️ Managing infrastructure as code with **Terraform**
+- ⚙️ Building and maintaining **CI/CD pipelines** to ship faster, safer
+- 📊 Setting up **monitoring & observability** so nothing breaks silently
+- 🔗 Automating workflows with **n8n** and building internal tools with **Retool**
+- 🐧 Comfortable living in the terminal — **Linux** all day
+- 💬 Ask me about DevOps, cloud infra, or Kubernetes troubleshooting
+- ⚡ Fun fact: I play **Guitar and Ukulele** 🎸
 
-- ⚡ Fun fact **I play Guitar and Ukulele :)**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Tech Stack
+
+**Cloud & Infra**
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Containers & Orchestration**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+
+**CI/CD & Automation**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+**Monitoring & Tools**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Retool](https://img.shields.io/badge/Retool-3D3D3D?style=for-the-badge&logo=retool&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=DivyamK1234&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamK1234&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DivyamK1234&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+### 📫 Connect With Me
+
 <p align="left">
-<a href="https://twitter.com/divyam_khorwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divyam_khorwal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/divyam-khorwal-847215224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/divyam-khorwal-847215224/" height="30" width="40" /></a>
+<a href="mailto:divyamkhorwal18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/divyam_khorwal" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://divyam-khorwal.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyamk1234&show_icons=true&locale=en&layout=compact" alt="divyamk1234" /></p>
+**Profile views:** ![Visitor Count](https://komarev.com/ghpvc/?username=DivyamK1234&color=blue)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyamk1234&" alt="divyamk1234" /></p>
+</div>
