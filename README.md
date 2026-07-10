@@ -1,1 +1,1 @@
-<img src="./assets/banner.svg" width="100%" alt="Divyam Khorwal — DevOps Engineer" />
+<a href="https://divyam-khorwal.vercel.app/" target="_blank"><img src="./assets/banner.svg" width="100%" alt="Divyam Khorwal — DevOps Engineer" /></a>
