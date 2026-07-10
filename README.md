@@ -1,10 +1,6 @@
 <div align="center">
 
-# Divyam Khorwal
-
-**DevOps Engineer** — building and automating cloud infrastructure
-
-<img src="./assets/illustration.svg" width="500" alt="Cloud infrastructure illustration" />
+<img src="./assets/banner.svg" width="100%" alt="Divyam Khorwal — DevOps Engineer" />
 
 [divyam-khorwal.vercel.app](https://divyam-khorwal.vercel.app/) · [divyamkhorwal18@gmail.com](mailto:divyamkhorwal18@gmail.com)
 
