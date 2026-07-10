@@ -1,0 +1,33 @@
+<svg width="680" height="320" viewBox="0 0 680 320" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Cloud infrastructure illustration</title>
+<style>
+.stroke{fill:none;stroke:#5B7FA6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.strokeLight{fill:none;stroke:#9FB8D1;stroke-width:1.5;stroke-linecap:round;stroke-dasharray:4 5}
+.node{fill:#EAF1F8;stroke:#5B7FA6;stroke-width:2}
+.dot{fill:#5B7FA6}
+</style>
+<path class="stroke" d="M240 120 a34 34 0 0 1 8 -67 a46 46 0 0 1 88 -14 a38 38 0 0 1 44 55 a30 30 0 0 1 -6 60 z" />
+<line class="strokeLight" x1="300" y1="150" x2="220" y2="230" />
+<line class="strokeLight" x1="320" y1="155" x2="320" y2="230" />
+<line class="strokeLight" x1="340" y1="150" x2="420" y2="230" />
+<g transform="translate(180,230)">
+<rect class="node" x="0" y="0" width="80" height="60" rx="6" />
+<line class="stroke" x1="16" y1="18" x2="64" y2="18" />
+<line class="stroke" x1="16" y1="30" x2="64" y2="30" />
+<line class="stroke" x1="16" y1="42" x2="44" y2="42" />
+</g>
+<g transform="translate(280,230)">
+<rect class="node" x="0" y="0" width="80" height="60" rx="6" />
+<circle class="dot" cx="24" cy="30" r="10" />
+<circle class="dot" cx="56" cy="30" r="10" />
+</g>
+<g transform="translate(380,230)">
+<rect class="node" x="0" y="0" width="80" height="60" rx="6" />
+<line class="stroke" x1="16" y1="16" x2="64" y2="16" />
+<line class="stroke" x1="16" y1="30" x2="64" y2="30" />
+<line class="stroke" x1="16" y1="44" x2="64" y2="44" />
+</g>
+<circle class="dot" cx="300" cy="150" r="4" />
+<circle class="dot" cx="320" cy="155" r="4" />
+<circle class="dot" cx="340" cy="150" r="4" />
+</svg>
