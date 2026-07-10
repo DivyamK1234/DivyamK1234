@@ -1,85 +1,58 @@
 <div align="center">
 
-# Hi, I'm Divyam Khorwal 👋
-### DevOps Engineer | Automating Infra, Shipping Reliably
+# Divyam Khorwal
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=500&lines=Kubernetes+%2B+ArgoCD+%3D+%E2%9D%A4%EF%B8%8F;Automating+the+boring+stuff+with+Terraform;Building+CI%2FCD+pipelines+that+don't+break;GCP+%7C+Docker+%7C+n8n+%7C+Retool)](https://git.io/typing-svg)
+**DevOps Engineer** — building and automating cloud infrastructure
 
-</div>
-
----
-
-### 🚀 About Me
-
-- 🔧 I'm a **DevOps Engineer** focused on cloud infrastructure, containerization, and automation
-- ☁️ Currently working with **GCP**, building and maintaining scalable, reliable systems
-- 🐳 Deep into **Docker & Kubernetes**, with **ArgoCD** for GitOps-driven deployments
-- 🏗️ Managing infrastructure as code with **Terraform**
-- ⚙️ Building and maintaining **CI/CD pipelines** to ship faster, safer
-- 📊 Setting up **monitoring & observability** so nothing breaks silently
-- 🔗 Automating workflows with **n8n** and building internal tools with **Retool**
-- 🐧 Comfortable living in the terminal — **Linux** all day
-- 💬 Ask me about DevOps, cloud infra, or Kubernetes troubleshooting
-- ⚡ Fun fact: I play **Guitar and Ukulele** 🎸
-
----
-
-### 🛠️ Tech Stack
-
-**Cloud & Infra**
-
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Containers & Orchestration**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-
-**CI/CD & Automation**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-**Monitoring & Tools**
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Retool](https://img.shields.io/badge/Retool-3D3D3D?style=for-the-badge&logo=retool&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=DivyamK1234&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamK1234&layout=compact&theme=tokyonight&hide_border=true" />
+[divyam-khorwal.vercel.app](https://divyam-khorwal.vercel.app/) · [divyamkhorwal18@gmail.com](mailto:divyamkhorwal18@gmail.com)
 
 </div>
 
-<div align="center">
+<br />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DivyamK1234&theme=tokyonight&hide_border=true)
+## About
 
-</div>
+I work on cloud infrastructure, containerized deployments, and CI/CD automation — mostly on GCP, with Kubernetes and ArgoCD handling the deployment side and Terraform managing everything as code.
 
----
+- Cloud infrastructure on **GCP**
+- Container orchestration with **Docker** and **Kubernetes**, deployed via **ArgoCD**
+- Infrastructure as code with **Terraform**
+- CI/CD pipelines and workflow automation with **n8n**
+- Internal tooling with **Retool**
+- Monitoring & observability for production systems
+- Day-to-day in **Linux**
 
-### 📫 Connect With Me
+<br />
 
-<p align="left">
-<a href="mailto:divyamkhorwal18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/divyam_khorwal" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://divyam-khorwal.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+## Stack
+
+<p>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Retool-3D3D3D?style=flat-square&logo=retool&logoColor=white" />
 </p>
 
-<div align="center">
+<br />
 
-**Profile views:** ![Visitor Count](https://komarev.com/ghpvc/?username=DivyamK1234&color=blue)
+## GitHub
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=DivyamK1234&show_icons=true&theme=default&hide_border=true&hide_title=true&bg_color=00000000&text_color=333333&icon_color=555555" height="150" />
+
+<br />
+<br />
+
+## Elsewhere
+
+<p>
+<a href="mailto:divyamkhorwal18@gmail.com">Email</a> ·
+<a href="#">LinkedIn</a> ·
+<a href="https://twitter.com/divyam_khorwal">Twitter</a> ·
+<a href="https://divyam-khorwal.vercel.app/">Portfolio</a>
+</p>
+
+<sub>Off the clock, I play guitar and ukulele.</sub>
