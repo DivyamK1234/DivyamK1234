@@ -1,0 +1,34 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Divyam Khorwal — DevOps Engineer</title>
+<rect x="0" y="0" width="1200" height="300" fill="#0a0a0a"/>
+<g opacity="0.5">
+<g stroke="#3a3a3a" stroke-width="0.5">
+<line x1="880" y1="0" x2="880" y2="300"/>
+<line x1="950" y1="0" x2="950" y2="300"/>
+<line x1="1020" y1="0" x2="1020" y2="300"/>
+<line x1="1090" y1="0" x2="1090" y2="300"/>
+<line x1="1160" y1="0" x2="1160" y2="300"/>
+<line x1="850" y1="35" x2="1200" y2="35"/>
+<line x1="850" y1="95" x2="1200" y2="95"/>
+<line x1="850" y1="155" x2="1200" y2="155"/>
+<line x1="850" y1="215" x2="1200" y2="215"/>
+<line x1="850" y1="265" x2="1200" y2="265"/>
+</g>
+<circle cx="880" cy="35" r="4" fill="#6EE7C9"/>
+<circle cx="1020" cy="95" r="4" fill="#6EE7C9"/>
+<circle cx="1090" cy="155" r="4" fill="#6EE7C9"/>
+<circle cx="950" cy="215" r="4" fill="#6EE7C9"/>
+<circle cx="1160" cy="265" r="4" fill="#6EE7C9"/>
+<circle cx="880" cy="155" r="4" fill="#555"/>
+<circle cx="1090" cy="35" r="4" fill="#555"/>
+<circle cx="1020" cy="265" r="4" fill="#555"/>
+<circle cx="1160" cy="95" r="4" fill="#555"/>
+<line x1="880" y1="35" x2="1020" y2="95" stroke="#4a4a4a" stroke-width="0.75"/>
+<line x1="1020" y1="95" x2="1090" y2="155" stroke="#4a4a4a" stroke-width="0.75"/>
+<line x1="1090" y1="155" x2="950" y2="215" stroke="#4a4a4a" stroke-width="0.75"/>
+<line x1="950" y1="215" x2="1160" y2="265" stroke="#4a4a4a" stroke-width="0.75"/>
+</g>
+<text x="70" y="150" font-family="Georgia, 'Times New Roman', serif" font-size="82" fill="#f2f2f2">divyam khorwal</text>
+<text x="74" y="200" font-family="Georgia, serif" font-size="28" fill="#8a8a8a">devops engineer</text>
+<text x="74" y="240" font-family="Georgia, serif" font-size="28" fill="#8a8a8a">visit <tspan fill="#6EE7C9" text-decoration="underline">divyam-khorwal.vercel.app</tspan> to know more</text>
+</svg>
