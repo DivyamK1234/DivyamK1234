@@ -4,23 +4,11 @@
 
 **DevOps Engineer** — building and automating cloud infrastructure
 
+<img src="./assets/illustration.svg" width="500" alt="Cloud infrastructure illustration" />
+
 [divyam-khorwal.vercel.app](https://divyam-khorwal.vercel.app/) · [divyamkhorwal18@gmail.com](mailto:divyamkhorwal18@gmail.com)
 
 </div>
-
-<br />
-
-## About
-
-I work on cloud infrastructure, containerized deployments, and CI/CD automation — mostly on GCP, with Kubernetes and ArgoCD handling the deployment side and Terraform managing everything as code.
-
-- Cloud infrastructure on **GCP**
-- Container orchestration with **Docker** and **Kubernetes**, deployed via **ArgoCD**
-- Infrastructure as code with **Terraform**
-- CI/CD pipelines and workflow automation with **n8n**
-- Internal tooling with **Retool**
-- Monitoring & observability for production systems
-- Day-to-day in **Linux**
 
 <br />
 
